@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MiMeMo | Dr Jack H Laverick</title>
+    <link>/me/tag/mimemo/</link>
+      <atom:link href="/me/tag/mimemo/index.xml" rel="self" type="application/rss+xml" />
+    <description>MiMeMo</description>
+<<<<<<< HEAD
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+>>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
+    <image>
+      <url>/me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>MiMeMo</title>
+      <link>/me/tag/mimemo/</link>
+    </image>
+    
+    <item>
+<<<<<<< HEAD
+      <title>How is climate change affecting marine life in the Arctic?</title>
+      <link>/me/publication/20frontiers/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/me/publication/20frontiers/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+=======
+>>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
+      <title>MiMeMo Barents Sea</title>
+      <link>/me/project/mimemo-barents-sea/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/me/project/mimemo-barents-sea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiMeMo Greenland</title>
+      <link>/me/project/mimemo-greenland/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/me/project/mimemo-greenland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-package</title>
+      <link>/me/project/mimemo.tools/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/me/project/mimemo.tools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

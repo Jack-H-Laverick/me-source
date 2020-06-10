@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Dr Jack H Laverick</title>
+    <link>/me/tag/other/</link>
+      <atom:link href="/me/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Other</title>
+      <link>/me/tag/other/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/me/project/go-jelly/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/me/project/go-jelly/</guid>
+      <description></description>
+    </item>
+    
+<<<<<<< HEAD
+=======
+    <item>
+      <title></title>
+      <link>/me/project/mesophotic.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/me/project/mesophotic.org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-package</title>
+      <link>/me/project/mce-package/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/me/project/mce-package/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
+  </channel>
+</rss>
