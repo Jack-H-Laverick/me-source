@@ -1,56 +1,50 @@
 ---
-abstract: Shallow water zooxanthellate coral reefs grade into ecologically distinct mesophotic coral
-  ecosystems (MCEs) deeper in the euphotic zone. MCEs are widely considered to start at an
-  absolute depth limit of 30m deep, possibly failing to recognise that these are distinct ecological
-  communities that may shift shallower or deeper depending on local environmental conditions.
-  This study aimed to explore whether MCEs represent distinct biological communities,
-  the upper boundary of which can be defined and whether the depth at which they occur may
-  vary above or below 30m. Mixed-gas diving and closed-circuit rebreathers were used to
-  quantitatively survey benthic communities across shallow to mesophotic reef gradients
-  around the island of Utila, Honduras. Depths of up to 85m were sampled, covering the vertical
-  range of the zooxanthellate corals around Utila. We investigate vertical reef zonation
-  using a variety of ecological metrics to identify community shifts with depth, and the appropriateness
-  of different metrics to define the upper MCE boundary. Patterns observed in
-  scleractinian community composition varied between ordination analyses and approaches
-  utilising biodiversity indices. Indices and richness approaches revealed vertical community
-  transition was a gradation. Ordination approaches suggest the possibility of recognising two
-  scleractinian assemblages. We could detect a mesophotic and shallow community while
-  illustrating that belief in a static depth limit is biologically unjustified. The switch between
-  these two communities occurred across bathymetric gradients as small as 10m and as large
-  as 50m in depth. The difference between communities appears to be a loss of shallow specialists
-  and increase in depth-generalist taxa. Therefore, it may be possible to define MCEs
-  by a loss of shallow specialist species. To support a biological definition of mesophotic
-  reefs, we advocate this analytical framework should be applied around the Caribbean and
-  extended into other ocean basins where MCEs are present.
-authors:
+abstract: "The physiology of mesophotic Scleractinia varies with depth in response to environmental change. Previous
+  research has documented trends in heterotrophy and photosynthesis with depth, but has not addressed between-site
+  variation for a single species. Environmental differences between sites at a local scale and heterogeneous
+  microhabitats, because of irradiance and food availability, are likely important factors when explaining the occurrence
+  and physiology of Scleractinia. Here, 108 colonies of Agaricia lamarcki were sampled from two locations off the coast of
+  Utila, Honduras, distributed evenly down the observed 50 m depth range of the species. We found that depth alone was not
+  sufficient to fully explain physiological variation. Pulse Amplitude-Modulation fluorometry and stable isotope analyses
+  revealed that trends in photochemical and heterotrophic activity with depth varied markedly between sites. Our isotope
+  analyses do not support an obligate link between photosynthetic activity and heterotrophic subsidy with increasing
+  depth. We found that A. lamarcki colonies at the bottom of the species depth range can be physiologically similar to
+  those nearer the surface. As a potential explanation, we hypothesize sites with high topographical complexity, and
+  therefore varied microhabitats, may provide more physiological niches distributed across a larger depth range. Varied
+  microhabitats with depth may reduce the dominance of depth as a physiological determinant. Thus, A. lamarcki may ‘avoid’
+  changes in environment with depth, by instead existing in a subset of favourable niches. Our observations correlate with
+  site-specific depth ranges, advocating for linking physiology and abiotic profiles when defining the distribution of
+  mesophotic taxa."
+author:
 - admin
-- Dominic Andradi-Brown 
-- Alex Rogers
-date: "2017-08-15T00:00:00Z"
-doi: ""
+- Tamara K Green
+- Heidi L Burdett 
+- Jason Newton
+date: "2019-11-01T00:00:00Z"
+doi: https://doi.org/10.1017/S0025315419000547
 featured: false
 image:
-  caption: 'Fig 4. A map of assemblages at transect locations'
+  caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*PLoSONE 12*(8)'
-publication_short: A biological upper boundary to a mesophotic reef
+publication: '*JMBA 99*(7)'
+publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-08-15T00:00:00Z"
-summary: This paper outlines a quantitative approach for delineating shallow and mesophotic coral reef communities, avoiding the 30 m static depth limit.
+publishDate: "2019-11-01T00:00:00Z"
+summary: This paper investigates changing coral physiology along a *continuous* depth gradient from the surface to 60 m depth.
 tags:
 - Mesophotic Coral Ecosystems
-title: Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras
-url_code: https://doi.org/10.1371/journal.pone.0183075.s009
-url_dataset: https://doi.org/10.1371/journal.pone.0183075.s007
-url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0183075&type=printable
+title: Depth alone is an inappropriate proxy for physiological change in the mesophotic coral Agaricia lamarcki
+url_code: https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/depth-alone-is-an-inappropriate-proxy-for-physiological-change-in-the-mesophotic-coral-agaricia-lamarcki/FB86C446FED7C55DC8F0733DB090659B#
+url_dataset: ""
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: https://player.vimeo.com/video/252513184
+url_video: ""
 ---
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

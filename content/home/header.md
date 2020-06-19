@@ -62,7 +62,7 @@ I'm Jack,
 a scientist that loves the sea.
 
 
-welcome to my personal website built with Hugo.
+Welcome to my personal website built with Hugo.
 
 
 Read on to find out about me and my research.

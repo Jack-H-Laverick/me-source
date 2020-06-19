@@ -6,11 +6,6 @@ image:
   focal_point: Smart
 summary: An online repository for literature on mesophotic reefs.
 tags:
-<<<<<<< HEAD
 - Mesophotic Coral Ecosystems
 title: Website
-=======
-- Other
-#title: Mesophotic.org
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
 ---

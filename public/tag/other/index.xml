@@ -20,24 +20,5 @@
       <description></description>
     </item>
     
-<<<<<<< HEAD
-=======
-    <item>
-      <title></title>
-      <link>/me/project/mesophotic.org/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/me/project/mesophotic.org/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R-package</title>
-      <link>/me/project/mce-package/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/me/project/mce-package/</guid>
-      <description></description>
-    </item>
-    
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
   </channel>
 </rss>

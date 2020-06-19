@@ -5,11 +5,7 @@
     <link>/me/tag/mimemo/</link>
       <atom:link href="/me/tag/mimemo/index.xml" rel="self" type="application/rss+xml" />
     <description>MiMeMo</description>
-<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
-=======
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
     <image>
       <url>/me/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>MiMeMo</title>
@@ -17,7 +13,6 @@
     </image>
     
     <item>
-<<<<<<< HEAD
       <title>How is climate change affecting marine life in the Arctic?</title>
       <link>/me/publication/20frontiers/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
@@ -28,8 +23,6 @@
     </item>
     
     <item>
-=======
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
       <title>MiMeMo Barents Sea</title>
       <link>/me/project/mimemo-barents-sea/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>

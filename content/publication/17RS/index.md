@@ -1,36 +1,56 @@
 ---
-abstract: Shallow water zooxanthellate coral reefs grade into ecologically distinct mesophotic coral
-  ecosystems (MCEs) deeper in the euphotic zone. MCEs are widely considered to start at an
-  absolute depth limit of 30m deep, possibly failing to recognise that these are distinct ecological
-  communities that may shift shallower or deeper depending on local environmental conditions.
-  This study aimed to explore whether MCEs represent distinct biological communities,
-  the upper boundary of which can be defined and whether the depth at which they occur may
-  vary above or below 30m. Mixed-gas diving and closed-circuit rebreathers were used to
-  quantitatively survey benthic communities across shallow to mesophotic reef gradients
-  around the island of Utila, Honduras. Depths of up to 85m were sampled, covering the vertical
-  range of the zooxanthellate corals around Utila. We investigate vertical reef zonation
-  using a variety of ecological metrics to identify community shifts with depth, and the appropriateness
-  of different metrics to define the upper MCE boundary. Patterns observed in
-  scleractinian community composition varied between ordination analyses and approaches
-  utilising biodiversity indices. Indices and richness approaches revealed vertical community
-  transition was a gradation. Ordination approaches suggest the possibility of recognising two
-  scleractinian assemblages. We could detect a mesophotic and shallow community while
-  illustrating that belief in a static depth limit is biologically unjustified. The switch between
-  these two communities occurred across bathymetric gradients as small as 10m and as large
-  as 50m in depth. The difference between communities appears to be a loss of shallow specialists
-  and increase in depth-generalist taxa. Therefore, it may be possible to define MCEs
-  by a loss of shallow specialist species. To support a biological definition of mesophotic
-  reefs, we advocate this analytical framework should be applied around the Caribbean and
-  extended into other ocean basins where MCEs are present.
+abstract: "Advances in understanding and technology combined with legislative change mean that deep-sea mining and marine
+  genetic resource utilisation are likely to increase significantly within the next ten years. These resources share
+  challenges in complexity of access, and can be co-located, but differ in the environmental impact that their access
+  would involve. MINERALS: Significant deposits of metal-rich minerals are known to exist on the sea floor. Commodity
+  price changes, technological progress, and changes in international agreements are likely to make deep-sea mining
+  possible. Exploration activity is in progress. Exploitation of this resource is likely to begin within the next ten
+  years. Environmental impact of deep-sea mining is likely to be significant. Regulations for exploitation beyond national
+  jurisdictions are now in development. Processes to predict, monitor and limit damage are yet to be established, but will
+  play an important role in this process. GENETIC MATERIALS: Ocean environments hold promise for useful
+  chemical/biological compounds for drugs or household products. A small number of marketed products already exist from
+  marine genetic resources, with some showing significant economic returns. The market could soon increase due to advances
+  in surveying and gene sequencing technology. Legal considerations within national waters are well agreed, but the 
+  regulatory status of marine genetic resources outside national jurisdiction is not settled and is subject to active
+  international discussion."
 authors:
+- Gideon Henderson 
+- Michael Bickle
+- Angela Hatton
+- Christopher Hauton 
+- Marcel Jaspars 
+- Paul Lusty
+- Christine Maggs
+- Rachel Mills
+- Thomas Mock
+- Catherine Redgwell
+- Elizabeth Surkovic
+- Richard Walker
+- Laurie Smith
+- Hélène Margue
+- Lindsay Taylor
+- Giles Barrett
+- supported by
+- Andrew Birchenough
+- Andrew Bloodworth
+- Harry Bryden
+- Amber Cobley
+- Henry Green
+- Lowri Griffiths
+- Alexander Halliday
+- Harriet Harden-Davies
+- Lea-Anne Henry
+- Kerry Howell
 - admin
-- Dominic Andradi-Brown 
+- Peter Liss
+- Georgina Mace
 - Alex Rogers
-date: "2017-08-15T00:00:00Z"
-doi: ""
+- Christopher Williams
+date: "2017-05-01T00:00:00Z"
+doi: https://royalsociety.org/topics-policy/projects/future-ocean-resources/
 featured: false
 image:
-  caption: ""
+  caption: "Copyright - University of Southampton"
   focal_point: ""
   preview_only: false
 projects: []
@@ -38,14 +58,13 @@ publication: '*Royal Society*'
 publication_short: ""
 publication_types:
 - "4"
-publishDate: "2017-08-15T00:00:00Z"
-summary: This paper outlines a quantitative approach for delineating shallow and mesophotic coral reef communities, avoiding the 30 m static depth limit.
-tags:
-- Mesophotic Coral Ecosystems
-title: Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras
+publishDate: "2017-05-01T00:00:00Z"
+summary: This Royal Society evidence pack draws on the expertise of Fellows of the Royal Society, and other scientists with relevant expertise, to provide a rapid and authoritative synthesis of current evidence regarding two novel classes of marine resource. While not presenting any specific recommendations, we lay out the current state of knowledge and the questions that remain to be answered.
+tags: ""
+title: "Future ocean resources: Metal-rich minerals and genetics"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://royalsociety.org/-/media/policy/projects/future-oceans-resources/future-of-oceans-evidence-pack.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

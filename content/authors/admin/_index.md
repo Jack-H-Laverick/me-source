@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I'm interested in modelling a variety of marine ecosystems, considering community structure, demography, and food webs.
 education:
   courses:
   - course: DPhil in Environmental Research
@@ -40,8 +39,4 @@ user_groups:
 - Visitors
 ---
 
-<<<<<<< HEAD
 I've studied a variety of systems so far: tropical coral reefs from 0 - 100 m under the sea, temperate jellyfish blooms,  and climate change and fishing in the Arctic. I leant heavily on my coding skills for all of these projects, for modelling and machine learning, which means I'm somehow in a maths department after a biology degree! Despite the programming I've plenty of field experience, which explains the photos on my site. 
-=======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94

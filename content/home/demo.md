@@ -5,11 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-<<<<<<< HEAD
 active = false  # Activate this widget? true/false
-=======
-active = true  # Activate this widget? true/false
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
 weight = 15  # Order that this section will appear.
 
 title = "Demos"
@@ -33,13 +29,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-<<<<<<< HEAD
   image = "headers/2.jpg"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-=======
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false

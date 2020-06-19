@@ -1,56 +1,52 @@
 ---
-abstract: Shallow water zooxanthellate coral reefs grade into ecologically distinct mesophotic coral
-  ecosystems (MCEs) deeper in the euphotic zone. MCEs are widely considered to start at an
-  absolute depth limit of 30m deep, possibly failing to recognise that these are distinct ecological
-  communities that may shift shallower or deeper depending on local environmental conditions.
-  This study aimed to explore whether MCEs represent distinct biological communities,
-  the upper boundary of which can be defined and whether the depth at which they occur may
-  vary above or below 30m. Mixed-gas diving and closed-circuit rebreathers were used to
-  quantitatively survey benthic communities across shallow to mesophotic reef gradients
-  around the island of Utila, Honduras. Depths of up to 85m were sampled, covering the vertical
-  range of the zooxanthellate corals around Utila. We investigate vertical reef zonation
-  using a variety of ecological metrics to identify community shifts with depth, and the appropriateness
-  of different metrics to define the upper MCE boundary. Patterns observed in
-  scleractinian community composition varied between ordination analyses and approaches
-  utilising biodiversity indices. Indices and richness approaches revealed vertical community
-  transition was a gradation. Ordination approaches suggest the possibility of recognising two
-  scleractinian assemblages. We could detect a mesophotic and shallow community while
-  illustrating that belief in a static depth limit is biologically unjustified. The switch between
-  these two communities occurred across bathymetric gradients as small as 10m and as large
-  as 50m in depth. The difference between communities appears to be a loss of shallow specialists
-  and increase in depth-generalist taxa. Therefore, it may be possible to define MCEs
-  by a loss of shallow specialist species. To support a biological definition of mesophotic
-  reefs, we advocate this analytical framework should be applied around the Caribbean and
-  extended into other ocean basins where MCEs are present.
+abstract: Both active and passive human interactions with reef fish communities are increasingly recognized to cause fish
+  behavioural changes. However, few studies have considered how these behavioural adaptations impact standard reef survey
+  techniques, particularly across natural gradients of interest to ecologists and reef managers. Here we measure fish
+  abundance, biomass and minimum approach distance using stereo-video surveys to compare the effects of bubble-producing
+  open-circuit scuba vs near-silent closed-circuit rebreathers. Surveys extended across a shallow to upper-mesophotic
+  gradient on the fringing reefs of Utila, Honduras, to explore how the effects of diver gear choice vary with depth. For
+  most fish families we recorded similar abundances and biomass with the two diving techniques, suggesting that
+  open-circuit transects are generally appropriate for surveying western Atlantic reefs similar to Utila with regular
+  tourist diving but no spearfishing. Despite no overall significant difference in fish abundance or biomass, we
+  identified several fish families (Labridae, Pomacentridae, Scaridae) that allowed closed-circuit rebreather divers to
+  approach more closely than open-circuit divers. In addition, smaller fish generally allowed divers to approach more
+  closely than larger fish, and in most cases divers could approach fish more closely on mesophotic than shallow reefs.
+  Despite these significant differences in approach distances, their magnitude suggest they are unlikely to affect reef
+  fish detectability during normal fish surveys for most families. Our findings highlight the importance of considering
+  variation in fish behavioural adaptations along natural gradients such as depth, which otherwise has the potential to
+  cause biases when surveying by traditional monitoring programmes.
 authors:
+- Dominic Andradi-Brown
+- Erika Gress 
 - admin
-- Dominic Andradi-Brown 
+- Margaux AA Monfared
 - Alex Rogers
-date: "2017-08-15T00:00:00Z"
-doi: ""
+- Dan A Exton
+date: "2017-07-01T00:00:00Z"
+doi: https://doi.org/10.1017/S0025315417001278
 featured: false
 image:
-  caption: 'Fig 4. A map of assemblages at transect locations'
+  caption:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*PLoSONE 12*(8)'
-publication_short: A biological upper boundary to a mesophotic reef
+publication: '*JMBA 98*(7)'
+publication_short:
 publication_types:
 - "2"
 publishDate: "2017-08-15T00:00:00Z"
-summary: This paper outlines a quantitative approach for delineating shallow and mesophotic coral reef communities, avoiding the 30 m static depth limit.
+summary: This paper investigates whether open and close circuit SCUBA affect the results of reef fish surveys.
 tags:
 - Mesophotic Coral Ecosystems
-title: Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras
-url_code: https://doi.org/10.1371/journal.pone.0183075.s009
-url_dataset: https://doi.org/10.1371/journal.pone.0183075.s007
-url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0183075&type=printable
+title: Wariness of reef fish to passive diver presence with varying dive gear type across a coral reef depth gradient
+url_code: ""
+url_dataset: ""
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: https://player.vimeo.com/video/252513184
+url_video: ""
 ---
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

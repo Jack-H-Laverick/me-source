@@ -21,17 +21,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
-=======
-      <title></title>
-      <link>/me/project/mesophotic.org/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/me/project/mesophotic.org/</guid>
-      <description></description>
-    </item>
-    
-    <item>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
       <title>Internal Project</title>
       <link>/me/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -76,7 +65,6 @@
       <description></description>
     </item>
     
-<<<<<<< HEAD
     <item>
       <title>Website</title>
       <link>/me/project/mesophotic.org/</link>
@@ -85,7 +73,5 @@
       <description></description>
     </item>
     
-=======
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
   </channel>
 </rss>

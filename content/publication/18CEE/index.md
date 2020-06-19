@@ -1,56 +1,73 @@
 ---
-abstract: Shallow water zooxanthellate coral reefs grade into ecologically distinct mesophotic coral
-  ecosystems (MCEs) deeper in the euphotic zone. MCEs are widely considered to start at an
-  absolute depth limit of 30m deep, possibly failing to recognise that these are distinct ecological
-  communities that may shift shallower or deeper depending on local environmental conditions.
-  This study aimed to explore whether MCEs represent distinct biological communities,
-  the upper boundary of which can be defined and whether the depth at which they occur may
-  vary above or below 30m. Mixed-gas diving and closed-circuit rebreathers were used to
-  quantitatively survey benthic communities across shallow to mesophotic reef gradients
-  around the island of Utila, Honduras. Depths of up to 85m were sampled, covering the vertical
-  range of the zooxanthellate corals around Utila. We investigate vertical reef zonation
-  using a variety of ecological metrics to identify community shifts with depth, and the appropriateness
-  of different metrics to define the upper MCE boundary. Patterns observed in
-  scleractinian community composition varied between ordination analyses and approaches
-  utilising biodiversity indices. Indices and richness approaches revealed vertical community
-  transition was a gradation. Ordination approaches suggest the possibility of recognising two
-  scleractinian assemblages. We could detect a mesophotic and shallow community while
-  illustrating that belief in a static depth limit is biologically unjustified. The switch between
-  these two communities occurred across bathymetric gradients as small as 10m and as large
-  as 50m in depth. The difference between communities appears to be a loss of shallow specialists
-  and increase in depth-generalist taxa. Therefore, it may be possible to define MCEs
-  by a loss of shallow specialist species. To support a biological definition of mesophotic
-  reefs, we advocate this analytical framework should be applied around the Caribbean and
-  extended into other ocean basins where MCEs are present.
+abstract: "Background.
+  Globally, shallow-water coral reef biodiversity is at risk from a variety of threats, some of which may attenuate with
+  depth. Mesophotic coral ecosystems (MCEs), occurring from 30 to 40 m and deeper in tropical locations, have been subject
+  to a surge of research this century. Though a number of valuable narrative reviews exist, a systematic quantitative
+  synthesis of published MCE studies is lacking. We conducted a systematic review to collate mesophotic research,
+  including studies from the twentieth century to the present. We highlight current biases in research effort, regarding
+  locations and subject matter, and suggest where more attention may be particularly valuable. Following a notable number
+  of studies considering the potential for mesophotic reefs to act as refuges, it is important to know how comprehensive
+  these sources of recruits and organisms capable of moving to shallow water reefs may be.
+
+  Methods.
+  We search seven sources of bibliographic data with two search strings, as well as personal libraries. Articles were
+  included if they contained species presence data from both shallower and deeper than 30 m depth on tropical coral reefs.
+  Studies were critically appraised based on the number of species identified and balanced sampling effort with depth.
+  Maximum and minimum depths per species were extracted from each study, along with study region and taxon. We quantified
+  the degree of community overlap between shallow tropical reefs (<30 m) and reefs surveyed at the same locations below
+  30 m. Proportions of shallow species, across all studied taxa, observed deeper than 30 m were used to generate log odds
+  ratios and passed to a mixed-effects model. Study location and taxon were included as effect modifiers. Funnel plots,
+  regression tests, fail safe numbers, and analysis of a high validity subgroup contributed to sensitivity analyses and
+  tests of bias.
+
+  Results.
+  Across all studies synthesised we found two-thirds of shallow species were present on mesophotic reefs. Further analysis
+  by taxon and broad locations show that this pattern is influenced geographically and taxonomically. Community overlap
+  was estimated as low as 26% and as high as 97% for some cases.
+
+  Conclusions.
+  There is clear support for the hypothesis that protecting mesophotic reefs will also help to conserve shallow water
+  species. At the same time, it is important to note that this study does not address mesophotic-specialist communities,
+  or the ecological forces which would permit refuge dynamics. As we limit our analysis to species only present above 30 m
+  it is also possible diversity found exclusively deeper than 30 m warrants protection in its own right. Further research
+  into relatively ignored taxa and geographic regions will help improve the design of protected areas in future."
 authors:
 - admin
-- Dominic Andradi-Brown 
-- Alex Rogers
-date: "2017-08-15T00:00:00Z"
-doi: ""
+- Shanice Piango
+- Dominic Andradi-Brown
+- Dan A Exton
+- Pim Bongaerts
+- Tom C L Bridge
+- Michael P Lesser
+- Richard L Pyle
+- Marc Slattery
+- Daniel Wagner
+- Alex Rogers 
+date: "2018-06-11T00:00:00Z"
+doi: https://doi.org/10.1186/s13750-018-0127-1
 featured: false
 image:
-  caption: 'Fig 4. A map of assemblages at transect locations'
+  caption:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*PLoSONE 12*(8)'
-publication_short: A biological upper boundary to a mesophotic reef
+publication: '*Environmental Evidence 7*(15)'
+publication_short: 
 publication_types:
 - "2"
 publishDate: "2017-08-15T00:00:00Z"
-summary: This paper outlines a quantitative approach for delineating shallow and mesophotic coral reef communities, avoiding the 30 m static depth limit.
+summary: This paper details the results of a systematic review and meta-analysis into community overlap between shallow and mesophotic coral reef communities.
 tags:
 - Mesophotic Coral Ecosystems
-title: Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras
-url_code: https://doi.org/10.1371/journal.pone.0183075.s009
-url_dataset: https://doi.org/10.1371/journal.pone.0183075.s007
-url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0183075&type=printable
+title: To what extent do mesophotic coral ecosystems and shallow reefs share species of conservation interest? A systematic review
+url_code: 
+url_dataset:
+url_pdf: https://environmentalevidencejournal.biomedcentral.com/track/pdf/10.1186/s13750-018-0127-1
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
-url_video: https://player.vimeo.com/video/252513184
+url_source: https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-018-0127-1#Sec24
+url_video: ""
 ---
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

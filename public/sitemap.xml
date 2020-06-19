@@ -28,7 +28,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/me/publication-type/2/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
@@ -199,6 +198,21 @@
   </url>
   
   <url>
+    <loc>/me/publication/19jmba/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/publication/19ecosphere/</loc>
+    <lastmod>2019-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/netanel-kramer/</loc>
+    <lastmod>2019-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/me/publication-type/6/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -214,8 +228,6 @@
   </url>
   
   <url>
-=======
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
     <loc>/me/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -226,7 +238,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/me/publication-type/4/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -244,6 +255,31 @@
   <url>
     <loc>/me/publication/19bimp/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/publication/19geb/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/keir-j-macartney/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/marc-slattery/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/michael-p-lesser/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/tom-c-l-bridge/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -317,57 +353,8 @@
   </url>
   
   <url>
-    <loc>/me/author/tom-c-l-bridge/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/me/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-=======
-    <loc>/me/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/author/jack-h-laverick/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
   </url>
   
   <url>
@@ -401,7 +388,26 @@
   </url>
   
   <url>
-<<<<<<< HEAD
+    <loc>/me/author/dan-a-exton/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/daniel-wagner/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/shanice-piango/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/publication/18cee/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/me/author/amber-cobley/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
@@ -462,8 +468,8 @@
   </url>
   
   <url>
-    <loc>/me/publication/17jmba/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/me/publication/18mer/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -472,33 +478,158 @@
   </url>
   
   <url>
+    <loc>/me/author/margaux-aa-monfared/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/publication/17jmba/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/alexander-halliday/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/andrew-birchenough/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/andrew-bloodworth/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/angela-hatton/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/catherine-redgwell/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/christine-maggs/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/christopher-hauton/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/christopher-williams/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/elizabeth-surkovic/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/me/publication/17rs/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/me/publication/18cee/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/me/author/georgina-mace/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/me/publication/18mer/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/me/author/gideon-henderson/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/me/publication/19ecosphere/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/me/author/giles-barrett/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/me/publication/19geb/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/me/author/harriet-harden-davies/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/me/publication/19jmba/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <loc>/me/author/harry-bryden/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/helene-margue/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/kerry-howell/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/laurie-smith/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/lea-anne-henry/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/lindsay-taylor/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/lowri-griffiths/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/marcel-jaspars/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/michael-bickle/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/paul-lusty/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/peter-liss/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/rachel-mills/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/richard-walker/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/supported-by/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/me/author/thomas-mock/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -507,27 +638,7 @@
   </url>
   
   <url>
-    <loc>/me/author/dan-a-exton/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/author/daniel-wagner/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/me/author/dominic-a-andradibrown/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/author/marc-slattery/</loc>
-    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/author/michael-p-lesser/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -593,37 +704,16 @@
   
   <url>
     <loc>/me/project/go-jelly/</loc>
-=======
-    <loc>/me/project/go-jelly/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/project/mesophotic.org/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/me/tag/deep-learning/</loc>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>/me/tag/deep-learning/</loc>
-=======
     <loc>/me/project/internal-project/</loc>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-<<<<<<< HEAD
-    <loc>/me/project/internal-project/</loc>
-=======
-    <loc>/me/tag/mimemo/</loc>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -658,14 +748,11 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/me/project/mesophotic.org/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-=======
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
     <loc>/me/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -701,24 +788,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
-=======
-    <loc>/me/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
     <loc>/me/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -744,19 +813,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
-=======
-    <loc>/me/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/me/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
     <loc>/me/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   

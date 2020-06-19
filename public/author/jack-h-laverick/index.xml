@@ -5,11 +5,7 @@
     <link>/me/author/jack-h-laverick/</link>
       <atom:link href="/me/author/jack-h-laverick/index.xml" rel="self" type="application/rss+xml" />
     <description>Jack H Laverick</description>
-<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
-=======
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
     <image>
       <url>/me/author/jack-h-laverick/Avatar_hu8842494a3c1e8a5a9f384a116f295910_1519475_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Jack H Laverick</title>
@@ -17,7 +13,6 @@
     </image>
     
     <item>
-<<<<<<< HEAD
       <title>A generalised light-driven model of community transitions along coral reef depth gradients</title>
       <link>/me/publication/20geb/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
@@ -48,6 +43,16 @@
     </item>
     
     <item>
+      <title>Light environment drives the shallow‐to‐mesophotic coral community transition</title>
+      <link>/me/publication/19ecosphere/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/me/publication/19ecosphere/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mesophotic Coral Ecosystems</title>
       <link>/me/publication/19encyclopaedia/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -68,23 +73,21 @@
     </item>
     
     <item>
+      <title>Global community breaks at 60 m on mesophotic coral reefs</title>
+      <link>/me/publication/19geb/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/me/publication/19geb/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Key Questions for Research and Conservation of Mesophotic Coral Ecosystems and Temperate Mesophotic Ecosystems</title>
       <link>/me/publication/19springer/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       <guid>/me/publication/19springer/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
-=======
-      <title>An example preprint / working paper</title>
-      <link>/me/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/me/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -139,7 +142,16 @@ date: 2019-09-01
     </item>
     
     <item>
-<<<<<<< HEAD
+      <title>To what extent do mesophotic coral ecosystems and shallow reefs share species of conservation interest? A systematic review</title>
+      <link>/me/publication/18cee/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/me/publication/18cee/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Foresight Future of the Sea: A Report from the Government Chief Scientific Adviser</title>
       <link>/me/publication/18goscience/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -150,10 +162,10 @@ date: 2019-09-01
     </item>
     
     <item>
-      <title>Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras</title>
-      <link>/me/publication/17jmba/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/me/publication/17jmba/</guid>
+      <title>Experimental evidence for reduced mortality of Agaricia lamarcki on a mesophotic reef</title>
+      <link>/me/publication/18mer/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/me/publication/18mer/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -170,60 +182,20 @@ date: 2019-09-01
     </item>
     
     <item>
-      <title>Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras</title>
+      <title>Wariness of reef fish to passive diver presence with varying dive gear type across a coral reef depth gradient</title>
+      <link>/me/publication/17jmba/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/me/publication/17jmba/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Future ocean resources: Metal-rich minerals and genetics</title>
       <link>/me/publication/17rs/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>/me/publication/17rs/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras</title>
-      <link>/me/publication/18cee/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/me/publication/18cee/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras</title>
-      <link>/me/publication/18mer/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/me/publication/18mer/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras</title>
-      <link>/me/publication/19ecosphere/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/me/publication/19ecosphere/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras</title>
-      <link>/me/publication/19geb/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/me/publication/19geb/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using light-dependent scleractinia to define the upper boundary of mesophotic coral ecosystems on the reefs of Utila, Honduras</title>
-      <link>/me/publication/19jmba/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/me/publication/19jmba/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -250,8 +222,6 @@ date: 2019-09-01
     </item>
     
     <item>
-=======
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
       <title>Academic: the website builder for Hugo</title>
       <link>/me/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -395,48 +365,5 @@ date: 2019-09-01
 </description>
     </item>
     
-<<<<<<< HEAD
-=======
-    <item>
-      <title>An example journal article</title>
-      <link>/me/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/me/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/me/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/me/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
   </channel>
 </rss>

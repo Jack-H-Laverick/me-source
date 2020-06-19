@@ -18,7 +18,6 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-<<<<<<< HEAD
   description = "Advanced"
   
  [[feature]]
@@ -48,20 +47,4 @@ subtitle = ""
   padding = ["150px", "0", "150px", "0"]
 
   
-=======
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
->>>>>>> 8fbbdbd6be94daf74afe408b5b1f4ed5c1468f94
 +++
